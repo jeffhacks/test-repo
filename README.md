@@ -1,4 +1,3 @@
-# testing
-test-repo
+# Test Repo
 
-- test 1
+- Test 1
